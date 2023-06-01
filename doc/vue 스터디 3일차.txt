@@ -1,0 +1,2 @@
+1. vuex vs pinia (상태관리 라이브러리)
+    - https://velog.io/@sehyunny/advantages-of-pinia-vs-vuex

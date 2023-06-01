@@ -1,4 +1,4 @@
 1. router 구성
 
 2. options API vs Composition API
-
+    - https://velog.io/@chocolajin/Options-API-vs-Composition-API
