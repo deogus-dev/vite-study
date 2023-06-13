@@ -41,6 +41,14 @@ const routes = [
         path: "store",
         component: () => import("~/views/exam/store.vue"),
       },
+      {
+        path: "excelExport",
+        component: () => import("~/views/exam/excelExport.vue"),
+      },
+      {
+        path: "excelExportLib",
+        component: () => import("~/views/exam/excelExportLib.vue"),
+      },
     ],
   },
 ];
